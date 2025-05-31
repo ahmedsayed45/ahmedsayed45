@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there 👋 I'm Ahmed Elsayed
 
-<!--
-**ahmedsayed45/ahmedsayed45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer and full-stack developer who enjoys building interactive and scalable applications. I'm always learning and love exploring new technologies to improve my skills and contribute to exciting projects.
 
-Here are some ideas to get you started:
+[![GitHub Followers](https://img.shields.io/github/followers/ahmedelsayed?style=for-the-badge)](https://github.com/ahmedelsayed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Elsayed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmedelsayed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔭 I'm currently working on personal and open-source projects  
+- 🌱 Constantly learning and improving my skills  
+- 🤝 Looking to collaborate on development projects  
+
+---
+
+## 🚀 Technologies & Tools
+
+### 💻 Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" />
+</p>
+
+### ⚙️ Frameworks & Libraries  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
+</p>
+
+### 🛠️ Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" />
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+- 💼 Contribute more to open-source  
+- 🚀 Build and publish complete apps  
+- 🌍 Collaborate with developers worldwide  
+- 🧪 Learn more about backend architecture and cloud services  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedelsayed)  
+- 🌐 Portfolio: https://your-portfolio.com  
+
+---
+
+## 📈 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed&show_icons=true&theme=tokyonight)
