@@ -2,8 +2,8 @@
 
 I'm a passionate programmer and full-stack developer who enjoys building interactive and scalable applications. I'm always learning and love exploring new technologies to improve my skills and contribute to exciting projects.
 
-[![GitHub Followers](https://img.shields.io/github/followers/ahmedelsayed?style=for-the-badge)](https://github.com/ahmedelsayed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Elsayed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmedelsayed)
+[![GitHub Followers](https://img.shields.io/github/followers/ahmedelsayed?style=for-the-badge)](https://github.com/ahmedsayed45)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Elsayed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-elsayed455)
 
 ---
 
@@ -54,12 +54,12 @@ I'm a passionate programmer and full-stack developer who enjoys building interac
 
 ## 📫 Connect with Me
 
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedelsayed)  
+- 📧 Email: ahmelsayed455@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-elsayed455)  
 - 🌐 Portfolio: https://your-portfolio.com  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayed45&show_icons=true&theme=tokyonight)
